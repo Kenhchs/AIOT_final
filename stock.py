@@ -19,7 +19,7 @@ SHORT_TERM = "短期"
 plt.style.use('fivethirtyeight')
 
 see_past_days = 90
-past_days_to_predict_now = 159
+past_days_to_predict_now = 60
 nubmer_of_days_want_to_predict = 40
 
 def SET_DAYS_OF_PREDICTIONS(interval):
